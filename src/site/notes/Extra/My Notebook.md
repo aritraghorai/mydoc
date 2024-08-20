@@ -3,10 +3,9 @@
 ---
 
 
-| File                                                                         |
-| ---------------------------------------------------------------------------- |
-| [[Notes/Learning/Courses/Advance Llm/Linear Algebra\|Linear Algebra]]     |
-| [[Notes/Learning/Courses/Advance Llm/Linear Algebra 1\|Linear Algebra 1]] |
+| File                                                                     |
+| ------------------------------------------------------------------------ |
+| [[Notes/Learning/Courses/Advance Llm/Linear Algebra\|Linear Algebra]] |
 
 { .block-language-dataview}
 
