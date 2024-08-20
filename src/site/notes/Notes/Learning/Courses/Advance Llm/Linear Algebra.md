@@ -71,4 +71,25 @@
 ![Linear Algebra 3 * 3 Deterniannt.png](/img/user/assets/Linear%20Algebra%203%20*%203%20Deterniannt.png)
 
 
+### Note 
+**Determinant**:If Determinant value is 0 then matrix is singular else matrix is non singular.
+
+## Solving System of linear equation.
+### Example Non Singular with Unique Solution
+![Linear Algebra Sol 1.png](/img/user/assets/Linear%20Algebra%20Sol%201.png)
+
+**Solution Steps**
+1. Divide equation 1 by 5 and equation 2 with 4.
+2. E1 - E2
+3. By doing these we can get b=2
+4. By putting b value E1 we can get a as 3.
+### Example Where system is Singular(Redundant)
+![Linear Algebra E2.png](/img/user/assets/Linear%20Algebra%20E2.png)
+
+**Solution Steps** E stands for equation
+1. Divide E2 with 2
+2. We can see both equation is same.
+3. So any value of a=x ,b will be 10-x
+4. So the equation can have multiple solution.
+### Example Where system is Singular(Contradictory)
 
