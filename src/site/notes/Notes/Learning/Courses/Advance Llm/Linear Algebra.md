@@ -74,7 +74,7 @@
 ### Note 
 **Determinant**:If Determinant value is 0 then matrix is singular else matrix is non singular.
 
-## Solving System of linear equation.
+## Solving System of linear equation Elimination Method
 ### Example Non Singular with Unique Solution
 ![Linear Algebra Sol 1.png](/img/user/assets/Linear%20Algebra%20Sol%201.png)
 
@@ -92,4 +92,26 @@
 3. So any value of a=x ,b will be 10-x
 4. So the equation can have multiple solution.
 ### Example Where system is Singular(Contradictory)
+![Linear Algebra E3.png](/img/user/assets/Linear%20Algebra%20E3.png)
+ **Solution Steps**
+ 1. Divide E2/2
+ 2. E1-E2
+ 3. We can see 0=2 which is an contradiction.
+
+### Solving Equation with 3 variable
+![Linear Algebra E4.png](/img/user/assets/Linear%20Algebra%20E4.png)
+**Problem**
+To solve this equation.
+1.  Divide each equation with coefficient of a
+2. Use E1 to remove a from other two equation
+3. Then we will have 2 equation.
+![Linear Algebra S1E4.png](/img/user/assets/Linear%20Algebra%20S1E4.png)
+4. Not From In 2 new equation divide by coefficient of b
+5. Remove B from two new equation and get c value
+![Linear Algebra S2E4.png](/img/user/assets/Linear%20Algebra%20S2E4.png)
+6. Now put c value in previous equation and get b value
+7. Now put b and c value first equation and get a value.
+![Linear Algebra S3E4.png](/img/user/assets/Linear%20Algebra%20S3E4.png)
+
+## Solving Linear equation with Matrix Row Reduction Or Gaussian elimination
 
