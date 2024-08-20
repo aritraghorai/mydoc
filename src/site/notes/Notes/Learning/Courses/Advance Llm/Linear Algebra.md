@@ -115,3 +115,23 @@ To solve this equation.
 
 ## Solving Linear equation with Matrix Row Reduction Or Gaussian elimination
 
+![Linear Algebra-4.png](/img/user/assets/Linear%20Algebra-4.png)
+
+### Row Operation
+#### Switching Matrix : It Preserve singularity of an matrix
+![Linear Algebra Switching Matrix.png](/img/user/assets/Linear%20Algebra%20Switching%20Matrix.png)
+
+#### Multiply a row by non zero scalar
+![Linear Algebra Multoply.png](/img/user/assets/Linear%20Algebra%20Multoply.png)
+
+#### Adding a row to another row
+![Linear Algebra Adding a row with another.png](/img/user/assets/Linear%20Algebra%20Adding%20a%20row%20with%20another.png)
+
+### Rank Of a matrix
+
+#### Rank in system of information
+![Linear Algebra Rank Example.png](/img/user/assets/Linear%20Algebra%20Rank%20Example.png)
+
+#### Rank in a system of equation
+![Linear Algebra System Equation.png](/img/user/assets/Linear%20Algebra%20System%20Equation.png)
+
