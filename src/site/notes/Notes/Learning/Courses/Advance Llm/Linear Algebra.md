@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/courses/advance-llm/linear-algebra/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/learning/courses/advance-llm/linear-algebra/"}
 ---
 
 ## Example Of Linear Algebra
