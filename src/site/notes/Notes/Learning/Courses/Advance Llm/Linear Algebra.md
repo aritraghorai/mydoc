@@ -135,3 +135,21 @@ To solve this equation.
 #### Rank in a system of equation
 ![Linear Algebra System Equation.png](/img/user/assets/Linear%20Algebra%20System%20Equation.png)
 
+#### Rank and singularity
+***If rank and rows number same the matrix is non singular**
+![Linear Algebra Rank And Singularity.png](/img/user/assets/Linear%20Algebra%20Rank%20And%20Singularity.png)
+
+#### Row echelon and Rank calculation
+##### Row Echelon Calculate
+
+**Row echelon for singular matrix**
+
+![Linear Algebra Row Echolon.png](/img/user/assets/Linear%20Algebra%20Row%20Echolon.png)
+
+**Row echelon for non singular matrix**
+
+![Linear Algebra-5.png](/img/user/assets/Linear%20Algebra-5.png)
+
+
+##### Row Echelon and rank
+![Linear Algebra-6.png](/img/user/assets/Linear%20Algebra-6.png)
