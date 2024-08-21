@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/courses/advance-llm/linear-algebra/linear-algebra-week-3/"}
+{"dg-publish":true,"permalink":"/notes/learning/courses/advance-llm/linear-algebra/linear-algebra-week-3/","title":"Linear Algebra - Vector & Linear transformations"}
 ---
 
-## Vectors
+# Vectors
 **1. Vector**
 
 A vector is an ordered list of numbers that represent a point in space. In machine learning and data science, vectors are often used to represent data points, features, or parameters. Vectors can be in various dimensions, depending on the number of elements they contain.
@@ -167,7 +167,36 @@ $$
 A unit vector has a magnitude of 1 and points in the same direction as the original vector. It is obtained by dividing the vector by its magnitude.
 
 **Example:**
-For a vector \( \mathbf{v} \):
+For a vector  *v* :
 $$
-\mathbf{\hat{v}} = \frac{\mathbf{v}}{||\mathbf{v}||}
+\mathbf{\hat{v}} = \frac{\mathbf{v}}{||\mathbf{v}||} \
 $$
+
+
+# Linear transformations
+
+## Matrix to linear transformation
+![Linear Algebra Week 3 Linear Transformation.png](/img/user/assets/Linear%20Algebra%20Week%203%20Linear%20Transformation.png)
+## Linear transformation to matrix
+![Linear Algebra Week 3 Linear Transformation to matrix.png](/img/user/assets/Linear%20Algebra%20Week%203%20Linear%20Transformation%20to%20matrix.png)
+## Matrix Multiplication
+![Linear Algebra Week 3 Matrix Multipication.png](/img/user/assets/Linear%20Algebra%20Week%203%20Matrix%20Multipication.png)
+
+![Linear Algebra Week 3 Dimention After multipication.png](/img/user/assets/Linear%20Algebra%20Week%203%20Dimention%20After%20multipication.png)
+
+
+## Identity matrix
+
+An identity matrix is a square matrix where all the elements on the main diagonal (from the top left to the bottom right) are equal to 1, and all off-diagonal elements are 0. In other words, it's a matrix that doesn't change a vector when you multiply the vector by the matrix.
+
+For example, a 3x3 identity matrix looks like this:
+
+$$
+I_3 = \begin{pmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{pmatrix}
+$$
+
+
