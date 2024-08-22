@@ -200,3 +200,4 @@ I_3 = \begin{pmatrix}
 $$
 
 
+[[Notes/Learning/Courses/Advance Llm/Linear Algebra/Linear Algebra Week 4\|Linear Algebra Week 4]]

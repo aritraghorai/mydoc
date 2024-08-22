@@ -8,6 +8,7 @@
 | [[Notes/Learning/Courses/Advance Llm/Advance LLM Index\|Advance LLM Index]]                                              |
 | [[Notes/Learning/Courses/Advance Llm/Linear Algebra/Linear Algebra Week 1 and Week 2\|Linear Algebra Week 1 and Week 2]] |
 | [[Notes/Learning/Courses/Advance Llm/Linear Algebra/Linear Algebra Week 3\|Linear Algebra Week 3]]                       |
+| [[Notes/Learning/Courses/Advance Llm/Linear Algebra/Linear Algebra Week 4\|Linear Algebra Week 4]]                       |
 
 { .block-language-dataview}
 
