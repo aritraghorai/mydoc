@@ -30,4 +30,3 @@
 
 ![Linear Algebra Week 4-4.png](/img/user/assets/Linear%20Algebra%20Week%204-4.png)
 
-
