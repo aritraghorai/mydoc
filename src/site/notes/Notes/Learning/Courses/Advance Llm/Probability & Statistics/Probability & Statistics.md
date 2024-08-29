@@ -3,7 +3,7 @@
 ---
 
 ## Notes
-- [Week 1](https://d3c33hcgiwev3.cloudfront.net/GbR11MUHS_yDIqO7aTHkLg_b962c2adf46f40238483044966e6b7f1_M4ML-C3-W1.pdf?Expires=1725062400&Signature=MJ-u~~-cVeRp9jJ~tNlvasX3IudG5K0eynuv0l1uZeoELid320D~K~BUtvHm0U2f0-dooQjisFhi3~7Xn7G3a9M60Q1lsx55dvzZ0nB3bIdCZKADfKMGwTa1iOelBzOt3YU73UUVq~g28V7qbmU8-E4F88sqcuzGzMlfBfxEwzk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)\
+- [Week 1](https://d3c33hcgiwev3.cloudfront.net/GbR11MUHS_yDIqO7aTHkLg_b962c2adf46f40238483044966e6b7f1_M4ML-C3-W1.pdf?Expires=1725062400&Signature=MJ-u~~-cVeRp9jJ~tNlvasX3IudG5K0eynuv0l1uZeoELid320D~K~BUtvHm0U2f0-dooQjisFhi3~7Xn7G3a9M60Q1lsx55dvzZ0nB3bIdCZKADfKMGwTa1iOelBzOt3YU73UUVq~g28V7qbmU8-E4F88sqcuzGzMlfBfxEwzk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ##  What is Probability?
 **Probability** is a branch of mathematics that deals with the likelihood or chance of different outcomes occurring in a random event. It quantifies uncertainty and measures how likely it is for a specific event to happen.
@@ -255,13 +255,14 @@ The **Bernoulli distribution** is a discrete probability distribution for a rand
 
 - **Random Variable**: \(X\) is a Bernoulli random variable with possible outcomes 1 (success) and 0 (failure).
 - **Parameter**: The Bernoulli distribution is defined by a single parameter \(p\), which represents the probability of success (i.e., the event happening).
-  - $$
+  $$
   (p = P(X = 1))
 $$
-  -  $$
+  $$
   (1 - p = P(X = 0))
 $$
 - **Probability Mass Function (PMF)**:
+
      $$
   P(X = x) = p^x (1 - p)^{1 - x}, \quad x \in \{0, 1\}
 $$
@@ -272,10 +273,12 @@ $$
 #### Moments of the Bernoulli Distribution
 
 - **Mean (Expected Value)**: 
+
 $$
   E(X) = p
 $$
 - **Variance**:
+
 $$
   \text{Var}(X) = p(1 - p)
 $$
