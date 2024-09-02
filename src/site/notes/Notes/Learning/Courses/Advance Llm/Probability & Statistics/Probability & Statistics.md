@@ -4,6 +4,7 @@
 
 ## Notes
 - [Week 1](https://d3c33hcgiwev3.cloudfront.net/GbR11MUHS_yDIqO7aTHkLg_b962c2adf46f40238483044966e6b7f1_M4ML-C3-W1.pdf?Expires=1725062400&Signature=MJ-u~~-cVeRp9jJ~tNlvasX3IudG5K0eynuv0l1uZeoELid320D~K~BUtvHm0U2f0-dooQjisFhi3~7Xn7G3a9M60Q1lsx55dvzZ0nB3bIdCZKADfKMGwTa1iOelBzOt3YU73UUVq~g28V7qbmU8-E4F88sqcuzGzMlfBfxEwzk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Week 2](https://d3c33hcgiwev3.cloudfront.net/AOiQfHCySw6mzx9zD2nPXg_d50535afb5ef4bb38d8655009de4b8f1_M4ML-C3-W2.pdf?Expires=1725148800&Signature=HdEtoyMe3xToOCoH-HL5-ztMl0ODUgr5aUj3u1teQ5yHEJwY1-~xpLGhgwfOPMRdgDk~4fOMiMZ8wxbgxoy~33v8ERuBUr~Hktgxr1j0uz-7pnzrQB238-H4TMkoouwJNOAI0i7zYeZYP~vOQjBUWamqFTny3D38qzyfC2iylC4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ##  What is Probability?
 **Probability** is a branch of mathematics that deals with the likelihood or chance of different outcomes occurring in a random event. It quantifies uncertainty and measures how likely it is for a specific event to happen.
@@ -245,7 +246,7 @@ So, the probability of getting exactly 4 heads in 10 flips of a fair coin is abo
 - Quality control and reliability testing
 - Clinical trials (e.g., probability of a certain number of patients responding to treatment)
 - Surveys and opinion polls
-- Modeling binary outcomes in various fields (e.g., finance, medicine, social sciences)
+- Modelling binary outcomes in various fields (e.g., finance, medicine, social sciences)
 
 
 ### Bernoulli Distribution
@@ -286,7 +287,24 @@ $$
 
 The Bernoulli distribution is widely used in scenarios involving binary outcomes. It serves as the foundation for more complex distributions like the Binomial distribution (which models the number of successes in a fixed number of Bernoulli trials). Examples include:
 
-- Modeling coin tosses
+- Modelling coin tosses
 - Representing success/failure scenarios in business or clinical trials
 - Describing user actions in A/B testing (click vs. no click)
+
+
+## Describing Distribution
+### Mean Or Expected Value
+![Probability & Statistics-8.png](/img/user/assets/Probability%20&%20Statistics-8.png)
+
+### Mean and Median,mod Binomial Distribution
+![Probability & Statistics Mean Median mod.png](/img/user/assets/Probability%20&%20Statistics%20Mean%20Median%20mod.png)
+
+### Sum of Expected Value
+![Probability & Statistics Sum of Expected Value.png](/img/user/assets/Probability%20&%20Statistics%20Sum%20of%20Expected%20Value.png)
+### Variance
+![Probability & Statistics Varience Motivation.png](/img/user/assets/Probability%20&%20Statistics%20Varience%20Motivation.png)
+![Probability & Statistics-9.png](/img/user/assets/Probability%20&%20Statistics-9.png)
+![Probability & Statistics-10.png](/img/user/assets/Probability%20&%20Statistics-10.png)
+
+
 
