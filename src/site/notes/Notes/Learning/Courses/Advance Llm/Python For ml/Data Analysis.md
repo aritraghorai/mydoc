@@ -8,8 +8,19 @@
 ```gist
 https://gist.github.com/aritraghorai/f5c707533046b4827ae4b80b06f12da1
 ```
-
 ## Pandas
 ```gist
 https://gist.github.com/aritraghorai/4ddeb266af0a658d3bdea3f6ae0e5d1b
+```
+
+
+```python
+import micropip
+await micropip.install('matplotlib')
+
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots()             # Create a figure containing a single Axes.
+ax.plot([1, 2, 3, 4], [1, 4, 2, 3])  # Plot some data on the Axes.
+plt.show()                           # Show the figure.
 ```
