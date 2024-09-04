@@ -12,7 +12,8 @@
 | [[Notes/Learning/Courses/Advance Llm/Calculus/Introduction to derivative\|Introduction to derivative]]                   | August 27, 2024    |
 | [[Notes/Learning/Courses/Advance Llm/Calculus/Newton Method\|Newton Method]]                                             | August 28, 2024    |
 | [[Notes/Learning/Courses/Advance Llm/Probability & Statistics/Probability & Statistics\|Probability & Statistics]]       | August 28, 2024    |
-| [[Notes/Learning/Courses/Advance Llm/Python For ml/Numpy\|Numpy]]                                                        | September 02, 2024 |
+| [[Notes/Learning/Courses/Advance Llm/Python For ml/Data Analysis\|Data Analysis]]                                        | September 02, 2024 |
+| [[Notes/Learning/Courses/Advance Llm/Python For ml/Data Visualization\|Data Visualization]]                              | September 04, 2024 |
 
 { .block-language-dataview}
 
