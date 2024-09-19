@@ -80,7 +80,7 @@ services:
           devices:
             - capabilities: [gpu]
     environment:
-      HUGGING_FACE_HUB_TOKEN: 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
+      HUGGING_FACE_HUB_TOKEN: ${HF_TOKEN}
       PYTORCH_CUDA_ALLOC_CONF: expandable_segments:True
     volumes:
       - ~/.cache/huggingface:/root/.cache/huggingface
