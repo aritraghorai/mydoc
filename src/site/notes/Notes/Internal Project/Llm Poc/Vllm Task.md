@@ -102,3 +102,15 @@ services:
 [Installing the NVIDIA Container Toolkit — NVIDIA Container Toolkit 1.16.0 documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#configuring-docker)
 
 
+
+### Running test with jemeter
+```
+rm -rf res result.csv 
+sh jmeter.sh -n -t app2.jmx -JTIME=100 -l result.csv -e -o res
+
+```
+
+
+## Optimize
+Normal
+adding parameters

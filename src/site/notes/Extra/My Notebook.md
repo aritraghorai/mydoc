@@ -17,6 +17,7 @@
 | [[Notes/Learning/Courses/Advance Llm/Python For ml/Data Preprocessing\|Data Preprocessing]]                              | September 08, 2024 |
 | [[Notes/Learning/Courses/Advance Llm/MlLibs/Scikit-learn\|Scikit-learn]]                                                 | September 16, 2024 |
 | [[Notes/Internal Project/Llm Poc/Vllm Task\|Vllm Task]]                                                                  | September 19, 2024 |
+| [[Notes/Interview Preparation/Qa Role/Qa Interview Preparation\|Qa Interview Preparation]]                               | January 09, 2025   |
 
 { .block-language-dataview}
 
