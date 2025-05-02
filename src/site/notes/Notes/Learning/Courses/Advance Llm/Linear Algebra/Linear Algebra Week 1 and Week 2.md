@@ -68,7 +68,7 @@
 ![Linear Algebra Check Singular with determinant.png](/img/user/assets/Linear%20Algebra%20Check%20Singular%20with%20determinant.png)
 
 #### 3 * 3 Matrix determinant
-![Linear Algebra 3 * 3 Deterniannt.png](/img/user/assets/Linear%20Algebra%203%20*%203%20Deterniannt.png)
+![[Linear Algebra 3 * 3 Deterniannt.png\|Linear Algebra 3 * 3 Deterniannt.png]]
 
 
 ### Note 
